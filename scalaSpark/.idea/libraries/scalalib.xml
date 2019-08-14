@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="scalalib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/scalalib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/scalalib" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/spark-core_2.11-2.1.0-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/scalalib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/scalalib" recursive="false" type="SOURCES" />
+  </library>
+</component>
